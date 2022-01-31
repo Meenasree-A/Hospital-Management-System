@@ -22,5 +22,7 @@ application.
 TECHNOLOGIES USED: 
 
 • Frontend – HTML, CSS, JavaScript 
+
 • Middleware – Python (Flask for API and server) 
+
 • Backend – SQLite 
